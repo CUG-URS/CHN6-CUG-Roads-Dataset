@@ -19,7 +19,7 @@ CHN6-CUG
 
 We collected typical areas of six cities in China from [Google Earth](http://earth.google.com). The images are with 50 cm/pixel spatial resolution. 
 
-**Please note that we do not own the copyrights to these original satellite images. Their use is RESTRICTED to non-commercial research and educational purposes.**
+**Please note that we do not own the copyrights to these original satellite images. The CHN6-CUG Roads Dataset is available for the academic purpose only. You may not use this work for commercial purposes.**
 
 ### 2.Download
 
