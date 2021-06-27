@@ -49,3 +49,5 @@ Please cite this paper if you use this dataset:
 If you have any problem in using the CHN6-CUG Roads Dataset, please contact: yanan.zhang@cug.edu.cn
 
 For any possible research collaboration, please contact Prof. Qiqi Zhu (zhuqq@cug.edu.cn).
+
+The homepage of our academic group is: http://grzy.cug.edu.cn/zhuqiqi/en/index.htm.
