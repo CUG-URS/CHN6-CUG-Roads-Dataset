@@ -29,6 +29,7 @@ We collected typical areas of six cities in China from [Google Earth](http://ear
 Download link: 
 
  - [BaiduYun](http://pm8kppwjnxiw5yrp.mikecrm.com/ZtMn5tR)（Password: qjpd）
+ - [Google Drive](http://cugurs5477.mikecrm.com/ZtMn5tR)
 
 ## 4.Reference
 
